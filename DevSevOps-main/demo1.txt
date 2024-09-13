@@ -1,0 +1,10 @@
+git is an open source source code management tool that that can track all the changes done by the developers or any other team that uses git on regular basis..
+
+git is of 2 types
+
+git server
+it is an web based/ cloud based remote repository where the actual code of an application exists.
+
+ex:-- github, gitlab, bibucket, perforce, svn server
+
+git client
