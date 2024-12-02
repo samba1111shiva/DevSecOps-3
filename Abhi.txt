@@ -8,7 +8,7 @@ git commit -m "This is my first commit"
 
 git add
 git commit
-git push 
+git push
 
 
 git config --global user.name "samba1111shiva"
