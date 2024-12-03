@@ -10,3 +10,6 @@ AWS HAS MORE THAN 200 SERVICES
 
 DEVELOPER -- DEV SERVERS ACCESS -- EC2 READ ACCESS -- VINAY
 DB DEVELOPER -- DB SERVERS ACCESS -- RDBMS ADMIN ACCESS -- SRINIVAS
+feature-* — feature branches are used to develop new features for the upcoming releases. ...
+hotfix-* — hotfix branches are necessary to act immediately upon an undesired status of master . ...
+release-* — release branches support preparation of a new production release.
