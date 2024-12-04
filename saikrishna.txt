@@ -1,1 +1,13 @@
 Hi My name is Sambasiva
+
+git init
+created 3 new files and then checked
+git status
+git add *
+git commit -m "This is my first commit"
+
+
+
+git add
+git commit
+git push
