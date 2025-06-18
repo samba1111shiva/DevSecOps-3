@@ -1,0 +1,10 @@
+Your team is migrating CI/CD from Jenkins to GitHub Actions for all microservices. How would you structure the workflows to ensure reusability, security, and governance across teams?
+
+Leverage composite workflows and workflow_call to define shared CI/CD logic in a centralized place, Secure Secrets Management, Governance via Organization Policies, Standardize Workflow Templates for Microservices, Deployment Strategy with Approvals and Rollbacks
+What command do you typically use to log into a Kubernetes pod? How would you check its status and, if there’s a failure, what commands do you use to troubleshoot and debug the issue?
+
+kubectl exec -it <pod-name> -n <namespace> -- /bin/bash
+
+
+ git config --global user.email "samba1111shiva@gmail.com"
+  git config --global user.name "samba1111shiva"
